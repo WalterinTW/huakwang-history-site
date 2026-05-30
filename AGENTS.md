@@ -1,10 +1,10 @@
 # AGENTS.md
 
 ## Project identity
-Project name: huakwang-history-site
+Project name: huahkwang-history-site
 
-This project is a small multi-page static website for the Huakwang Temple history section.
-All naming must use `huakwang`; avoid legacy alternate spellings.
+This project is a small multi-page static website for the Huah Kwang Temple history section.
+All naming must use `huah kwang`; avoid legacy alternate spellings.
 
 ## Project goal
 Build a clean, dignified, responsive history mini-site in Traditional Chinese.

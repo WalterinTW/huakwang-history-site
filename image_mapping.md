@@ -1,7 +1,7 @@
 # image_mapping.md
 
 ## 用途說明
-本檔案用來提供 `huakwang-history-site` 的圖片對照規格，供 Codex 與後續維護使用。  
+本檔案用來提供 `huahkwang-history-site` 的圖片對照規格，供 Codex 與後續維護使用。  
 內容包含：
 
 - 圖片檔名

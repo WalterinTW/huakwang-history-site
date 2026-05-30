@@ -1,12 +1,12 @@
-# Site Manifest: huakwang-history-site
+# Site Manifest: huahkwang-history-site
 
 ## 專案基本資訊
-- 專案名稱：huakwang-history-site
+- 專案名稱：huahkwang-history-site
 - 網站名稱：華光寺｜歷史沿革
 - 網站型態：小型多頁靜態網站
 - 語言版本：繁體中文
 - 部署方式：GitHub Pages
-- 命名規則：全部統一使用 `huakwang`，不再使用舊拼法
+- 命名規則：全部統一使用 `huah kwang`，不再使用舊拼法
 
 ## 網站目的
 本網站為「華光寺歷史沿革」主題的小網站，先獨立完成一個可閱讀、可導覽、可延伸閱讀的歷史模組。  
@@ -67,7 +67,7 @@
 
 ## 檔案結構
 ```text
-huakwang-history-site/
+huahkwang-history-site/
 ├─ AGENTS.md
 ├─ content_manifest.md
 ├─ index.html
